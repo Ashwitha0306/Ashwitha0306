@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="YOUR_BANNER_URL"/>
-
 # ⚡ ASHWITHA P.C
 
 ### Software Engineer • Full Stack Developer • Product Builder
@@ -36,7 +34,7 @@ Role:
   - Full Stack Developer
 
 Location:
-  - Kerala, India
+  - Coimbatore, India
 
 Tech Stack:
   - Java
