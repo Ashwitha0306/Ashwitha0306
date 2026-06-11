@@ -1,128 +1,93 @@
-# 👋 Hi, I'm Ashwitha P.C
+<div align="center">
 
-### Full Stack Developer • Java Developer • UI/UX Enthusiast • Problem Solver
+<img width="100%" src="YOUR_BANNER_URL"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Java+Developer+%7C+React+Developer;Turning+Ideas+Into+Digital+Experiences;Always+Learning+Something+New" />
+# ⚡ ASHWITHA P.C
+
+### Software Engineer • Full Stack Developer • Product Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Products+That+Matter;Java+Developer;React+Developer;Full+Stack+Engineer;Always+Learning+Always+Building" />
+
+<br>
+
+<a href="https://ashwitha08.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="mailto:ashwithaksamy@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/p-c-ashwitha06/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 🧬 Developer Identity
+
+```yaml
+Name: Ashwitha P.C
+
+Role:
+  - Software Engineer
+  - Full Stack Developer
+
+Location:
+  - Kerala, India
+
+Tech Stack:
+  - Java
+  - React
+  - Node.js
+  - MongoDB
+
+Mission:
+  Build software that solves real-world problems.
+
+Status:
+  Open to Software Engineering Opportunities
+```
+
+---
+
+# 🚀 Current Focus
+
+* 🔥 Advanced Java
+* ⚛ React Ecosystem
+* 🏗 System Design
+* ☁ Cloud Fundamentals
+* 🚀 Production-Ready Applications
+
+---
+
+# ⚔ Tech Arsenal
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
 </p>
 
----
+### Backend
 
-# ✨ At a Glance
+<p>
+<img src="https://skillicons.dev/icons?i=java,nodejs,express"/>
+</p>
 
-| 🎓 Education | B.Tech Graduate                       |
-| ------------ | ------------------------------------- |
-| 💼 Role      | Full Stack Developer                  |
-| 🌍 Location  | Kerala, India                         |
-| 💻 Focus     | Java • React • Node.js                |
-| 🚀 Open To   | Full-Time • Internships • Freelance   |
-| 🎯 Goal      | Software Engineer & Product Developer |
+### Database
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
 
-# 👨‍💻 About Me
+### Tools
 
-## 🪪 IDENTITY
-
-👤 Ashwitha P.C
-
-💼 Full Stack Developer
-
-📍 Kerala, India
-
-📧 [your-email@gmail.com](mailto:your-email@gmail.com)
-
-🐙 github.com/Ashwitha0306
-
----
-
-## ✨ THE JOURNEY
-
-🔭 Building:
-
-* Employee Management Dashboard
-* Smart Pizza Ordering Platform
-* Real-Time Collaborative Workspace
-
-🌱 Currently Learning:
-
-* Advanced Java
-* System Design
-* React Ecosystem
-* Cloud Fundamentals
-
-🤝 Open To:
-
-* Full-Time Opportunities
-* Software Engineering Roles
-* Open Source Contributions
-* Technical Collaborations
-
----
-
-## 🎮 FUN FACTS
-
-☕ Coffee + Code = Productivity
-
-🌙 Dark Mode Enthusiast
-
-🎯 Love Building Real-World Projects
-
-🚀 Continuous Learner
-
----
-
-# ⚡ Tech Arsenal
-
-## 🎨 Frontend
-
-HTML • CSS • JavaScript • React
-
-## ⚙️ Backend
-
-Node.js • Express.js • REST APIs • Java
-
-## 🗄️ Databases
-
-MongoDB • MySQL
-
-## ☁️ Tools & Platforms
-
-Git • GitHub • VS Code • Postman
-
----
-
-# 📊 Proficiency Levels
-
-Java               ████████████████████ 95%
-
-React              ██████████████████░░ 90%
-
-JavaScript         ██████████████████░░ 88%
-
-Node.js            █████████████████░░░ 85%
-
-MongoDB            ████████████████░░░░ 80%
-
-MySQL              ███████████████░░░░░ 75%
-
-System Design      ███████████░░░░░░░░░ 60%
-
-Cloud              █████████░░░░░░░░░░░ 50%
-
----
-
-# 📈 GitHub Analytics
-
-GitHub Stats
-
-Top Languages
-
-GitHub Streak
-
-Contribution Graph
-
-Contribution Snake
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
@@ -130,138 +95,135 @@ Contribution Snake
 
 ## 🍕 Smart Pizza
 
-Modern food ordering platform with authentication, responsive design and order management.
+Modern food ordering platform built using React, Node.js and MongoDB.
 
 ### Features
 
-✅ Authentication
-
-✅ Cart Management
-
-✅ Order Tracking
-
-✅ Responsive UI
-
-### Tech Stack
-
-React • Node.js • MongoDB
+* Authentication
+* Order Management
+* Cart System
+* Responsive Design
 
 ---
 
 ## 👨‍💼 Employee Dashboard
 
-Comprehensive employee management system.
+Enterprise-level employee management system.
 
 ### Features
 
-✅ Employee Management
-
-✅ Leave Management
-
-✅ Department Management
-
-✅ Salary Management
-
-### Tech Stack
-
-React • Express • MongoDB
+* Employee Management
+* Salary Tracking
+* Leave Management
+* Role-Based Access
 
 ---
 
 ## 🤝 Real-Time Collaborative Workspace
 
-Collaboration platform for teams.
+Real-time collaboration environment.
 
 ### Features
 
-✅ Real-Time Communication
+* Team Collaboration
+* Shared Workspace
+* Authentication
+* Live Updates
 
-✅ Shared Workspace
+---
 
-✅ Team Collaboration
+# 📊 GitHub Command Center
 
-✅ Secure Authentication
+<p align="center">
 
-### Tech Stack
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashwitha0306&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-React • Node.js • Socket.IO
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwitha0306&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwitha0306&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwitha0306&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Mission Board
+
+* ✅ Advanced Java
+* ✅ Full Stack Development
+* ✅ Build Real World Applications
+* 🔄 System Design
+* 🔄 Open Source Contributions
+* 🔄 Cloud Computing
+* 🔄 Software Engineer Position
 
 ---
 
 # 🏆 Achievements
 
-🥇 Multiple Full Stack Projects Completed
+🏅 Oasis Infobyte Internship
 
-🥇 Open Source Contributions
+🏅 Full Stack Development Projects
 
-🥇 Internship Project Deliveries
+🏅 Java Development Projects
 
-🥇 Consistent GitHub Activity
+🏅 Open Source Learning Journey
 
----
-
-# 🌱 Currently Learning
-
-📚 Advanced Java
-
-📚 System Design
-
-📚 Data Structures & Algorithms
-
-📚 Cloud Computing
-
-📚 Software Architecture
+🏅 Consistent GitHub Contributions
 
 ---
 
-# 🎯 2026 Roadmap
+# 💭 Developer Philosophy
 
-✅ Master Advanced Java
-
-✅ Strengthen DSA & Problem Solving
-
-✅ Build Production-Level Applications
-
-✅ Contribute to Open Source Projects
-
-🔄 Learn Cloud & DevOps
-
-🔄 Build SaaS Applications
-
-🔄 Publish Technical Articles
-
-🔄 Land Software Engineer Role
+> Great software is not written.
+>
+> It is engineered with purpose,
+> designed with empathy,
+> and improved continuously.
 
 ---
 
 # 🌐 Connect With Me
 
-LinkedIn
+<p align="center">
 
-Portfolio
+<a href="https://ashwitha08.vercel.app">
+<img src="https://skillicons.dev/icons?i=webflow"/>
+</a>
 
-GitHub
+<a href="https://www.linkedin.com/in/p-c-ashwitha06/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-Email
+<a href="mailto:ashwithaksamy@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
----
+<a href="https://github.com/Ashwitha0306">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-# 💡 Philosophy
-
-"Good software is not only functional.
-It should be reliable, scalable,
-maintainable and enjoyable to use."
-
----
-
-# ☕ Support My Work
-
-If you find my projects useful, consider leaving a ⭐ on the repositories.
-
-Every star motivates me to build more.
+</p>
 
 ---
 
-# 🚀 Crafted by Ashwitha P.C
+<div align="center">
+
+## ⭐ Thanks For Visiting
 
 Building • Learning • Innovating
+
+</div>
