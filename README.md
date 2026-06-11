@@ -2,9 +2,9 @@
 
 # ⚡ ASHWITHA P.C
 
-### Software Engineer • Full Stack Developer • Product Builder
+### Software Engineer • Full Stack Developer 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Products+That+Matter;Java+Developer;React+Developer;Full+Stack+Engineer;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Projects+That+Matter;Java+Developer;React+Developer;Full+Stack+Engineer;Always+Learning+Always+Building" />
 
 <br>
 
