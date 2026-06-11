@@ -1,176 +1,194 @@
 <div align="center">
 
-# ⚡ ASHWITHA P.C
-
-### Software Engineer • Full Stack Developer • Product Builder
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Products+That+Matter;Java+Developer;React+Developer;Full+Stack+Engineer;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&height=70&lines=ASHWITHA+P.C;SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+PRODUCTS+THAT+MATTER" />
 
 <br>
 
+<p>
 <a href="https://ashwitha08.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:ashwithaksamy@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/p-c-ashwitha06/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Ashwitha0306&style=for-the-badge&color=7C3AED" />
 
 </div>
 
 ---
 
-# 🧬 Developer Identity
+# ⚡ Developer OS
 
 ```yaml
 Name: Ashwitha P.C
 
 Role:
-  - Software Engineer
-  - Full Stack Developer
+  Software Engineer
+  Full Stack Developer
 
 Location:
-  - Coimbatore, India
+  Coimbatore, India
 
-Tech Stack:
-  - Java
-  - React
-  - Node.js
-  - MongoDB
+Current Status:
+  🟢 Available for Opportunities
+
+Currently Building:
+  🚀 Employee Dashboard
+  🍕 Smart Pizza Platform
+  🤝 Real-Time Collaborative Workspace
+
+Current Focus:
+  ☕ Advanced Java
+  ⚛ React Ecosystem
+  🏗 System Design
+  ☁ Cloud Fundamentals
 
 Mission:
-  Build software that solves real-world problems.
-
-Status:
-  Open to Software Engineering Opportunities
+  Transform ideas into scalable products.
 ```
 
 ---
 
-# 🚀 Current Focus
+# 🛠 Tech Universe
 
-* 🔥 Advanced Java
-* ⚛ React Ecosystem
-* 🏗 System Design
-* ☁ Cloud Fundamentals
-* 🚀 Production-Ready Applications
-
----
-
-# ⚔ Tech Arsenal
+<div align="center">
 
 ### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
-</p>
 
 ### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=java,nodejs,express"/>
-</p>
 
 ### Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🍕 Smart Pizza
+<table>
+<tr>
+<td width="33%">
 
-Modern food ordering platform built using React, Node.js and MongoDB.
+### 🍕 Smart Pizza
 
-### Features
+Modern food ordering platform
+
+#### Highlights
 
 * Authentication
-* Order Management
 * Cart System
-* Responsive Design
+* Order Tracking
+* Responsive UI
 
----
+**Stack**
 
-## 👨‍💼 Employee Dashboard
+React • Node.js • MongoDB
 
-Enterprise-level employee management system.
+</td>
 
-### Features
+<td width="33%">
 
-* Employee Management
+### 👨‍💼 Employee Dashboard
+
+Enterprise management platform
+
+#### Highlights
+
+* Employee Records
 * Salary Tracking
 * Leave Management
 * Role-Based Access
 
----
+**Stack**
 
-## 🤝 Real-Time Collaborative Workspace
+React • Express • MongoDB
 
-Real-time collaboration environment.
+</td>
 
-### Features
+<td width="33%">
+
+### 🤝 Collaborative Workspace
+
+Real-time collaboration system
+
+#### Highlights
 
 * Team Collaboration
+* Live Updates
 * Shared Workspace
 * Authentication
-* Live Updates
+
+**Stack**
+
+React • Node.js • Socket.IO
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Command Center
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashwitha0306&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashwitha0306&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwitha0306&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwitha0306&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwitha0306&theme=tokyonight&hide_border=true"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwitha0306&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 Contribution Activity
+# 🔥 Contribution Matrix
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwitha0306&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🎯 2026 Mission Board
+# 🎯 Mission Board 2026
 
-* ✅ Advanced Java
-* ✅ Full Stack Development
-* ✅ Build Real World Applications
-* 🔄 System Design
-* 🔄 Open Source Contributions
-* 🔄 Cloud Computing
-* 🔄 Software Engineer Position
+| Status | Goal                        |
+| ------ | --------------------------- |
+| ✅      | Master Advanced Java        |
+| ✅      | Build Full Stack Projects   |
+| ✅      | Strengthen React Skills     |
+| 🔄     | Learn System Design         |
+| 🔄     | Contribute to Open Source   |
+| 🔄     | Learn Cloud Computing       |
+| 🔄     | Land Software Engineer Role |
 
 ---
 
-# 🏆 Achievements
+<details>
+<summary><b>🏆 Achievements</b></summary>
+
+<br>
 
 🏅 Oasis Infobyte Internship
 
@@ -182,9 +200,14 @@ Real-time collaboration environment.
 
 🏅 Consistent GitHub Contributions
 
+</details>
+
 ---
 
-# 💭 Developer Philosophy
+<details>
+<summary><b>💭 Developer Philosophy</b></summary>
+
+<br>
 
 > Great software is not written.
 >
@@ -192,11 +215,13 @@ Real-time collaboration environment.
 > designed with empathy,
 > and improved continuously.
 
+</details>
+
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://ashwitha08.vercel.app">
 <img src="https://skillicons.dev/icons?i=webflow"/>
@@ -214,14 +239,14 @@ Real-time collaboration environment.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks For Visiting
+### ⭐ Building • Learning • Innovating
 
-Building • Learning • Innovating
+*"Every commit is a step forward."*
 
 </div>
